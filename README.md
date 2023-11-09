@@ -18,18 +18,19 @@ titanic.head()
 
 Exercises
 Recreate the plots below using the titanic dataframe. There are very few hints since most of the plots can be done with just one or two lines of code and a hint would basically give away the solution. Keep careful attention to the x and y labels for hints.
-
+```
  Distribution Plots; allow to visualise a distribution of data set. 
 
 ![image](https://github.com/Dm2998/lab8_Data_Analysis-/assets/114578666/1f788dd8-6863-4c4d-8891-71c9ad45c129)
 
-<br>
+
 
 Distplot: The distplot shows the distribution of a univariate set of observations.
 
-<br>
+
 ![image](https://github.com/Dm2998/lab8_Data_Analysis-/assets/114578666/3bf258c6-3360-4da6-819c-ef9993df5de3)
 
+```
 
 
 
